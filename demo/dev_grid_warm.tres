@@ -1,0 +1,11 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3]
+
+[ext_resource type="Shader" path="res://fp_player/demo/dev_grid.gdshader" id="1_shader"]
+
+[resource]
+shader = ExtResource("1_shader")
+shader_parameter/grid_size = 0.5
+shader_parameter/line_width = 1.2
+shader_parameter/base_color = Color(0.46, 0.48, 0.52, 1)
+shader_parameter/line_color = Color(0.1, 0.11, 0.13, 1)
+shader_parameter/tint = Color(1.0, 0.72, 0.45, 1)

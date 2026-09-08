@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+# Godot text formats — keep diffs readable
+*.gd     text
+*.tscn   text
+*.tres   text
+*.uid    text
+*.gdshader text

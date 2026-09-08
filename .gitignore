@@ -1,0 +1,11 @@
+# Godot editor state — regenerated, never committed
+.godot/
+.import/
+export_presets.cfg
+
+# Do NOT ignore *.uid — Godot 4.4+ writes those sidecars and they are what keeps
+# resource references stable when files move. They belong in the repo.
+
+.DS_Store
+Thumbs.db
+*~
